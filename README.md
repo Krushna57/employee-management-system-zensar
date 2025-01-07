@@ -60,13 +60,13 @@ con = DriverManager.getConnection("jdbc:mysql://localhost:3307/employee_manageme
 ```
 
 ### 4. Build and Run the Application
-- Compile the application:
+- Go to directory and Compile the application:
   ```bash
-  $ javac -d bin src/com/acc/**/*.java
+  $ javac EmployeeManager.java
   ```
 - Run the application:
   ```bash
-  $ java -cp bin com.acc.EmployeeManager
+  $ java EmployeeManager
   ```
 
 ## Usage
@@ -97,7 +97,6 @@ EmployeeManagementSystem/
 |               |-- DBConnection.java
 |           |-- EmployeeManager.java
 |-- bin/
-|-- schema.sql
 |-- README.md
 ```
 
