@@ -55,11 +55,8 @@ CREATE TABLE employees (
 Update the database credentials in the Java application:
 ```java
 // Example: DBConnection.java
-public class DBConnection {
-    public static final String URL = "jdbc:mysql://localhost:3306/employee_management";
-    public static final String USER = "root";
-    public static final String PASSWORD = "your_password";
-}
+Class.forName("com.mysql.cj.jdbc.Driver");
+con = DriverManager.getConnection("jdbc:mysql://localhost:3307/employee_management?useSSL=false","root","admin");
 ```
 
 ### 4. Build and Run the Application
