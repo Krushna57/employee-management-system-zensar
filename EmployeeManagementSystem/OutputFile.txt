@@ -1,0 +1,186 @@
+1. Display All Employee Records 
+2. Find Employee Record
+3. Add new Employee Record
+4. Delete Employee Record
+5. Update Employee Age
+6. Update Employee Salary
+7. Delete All Employees Record
+8. Increase All Employees Salary By %
+Enter choice >>> 
+1
+Employee [id=11, age=25, fname=Krushna, lname=sahane, salary=1210.01]
+Employee [id=12, age=25, fname=Jay, lname=Phad, salary=12100.0]
+Press 1 to continue... 
+1
+1. Display All Employee Records 
+2. Find Employee Record
+3. Add new Employee Record
+4. Delete Employee Record
+5. Update Employee Age
+6. Update Employee Salary
+7. Delete All Employees Record
+8. Increase All Employees Salary By %
+Enter choice >>> 
+6
+Enter id : 
+11
+Enter Salary : 
+50000
+Record Updated
+Press 1 to continue... 
+1
+1. Display All Employee Records 
+2. Find Employee Record
+3. Add new Employee Record
+4. Delete Employee Record
+5. Update Employee Age
+6. Update Employee Salary
+7. Delete All Employees Record
+8. Increase All Employees Salary By %
+Enter choice >>> 
+1
+Employee [id=11, age=25, fname=Krushna, lname=sahane, salary=50000.0]
+Employee [id=12, age=25, fname=Jay, lname=Phad, salary=12100.0]
+Press 1 to continue... 
+1
+1. Display All Employee Records 
+2. Find Employee Record
+3. Add new Employee Record
+4. Delete Employee Record
+5. Update Employee Age
+6. Update Employee Salary
+7. Delete All Employees Record
+8. Increase All Employees Salary By %
+Enter choice >>> 
+6
+Enter id : 
+12
+Enter Salary : 
+70000
+Record Updated
+Press 1 to continue... 
+1
+1. Display All Employee Records 
+2. Find Employee Record
+3. Add new Employee Record
+4. Delete Employee Record
+5. Update Employee Age
+6. Update Employee Salary
+7. Delete All Employees Record
+8. Increase All Employees Salary By %
+Enter choice >>> 
+1
+Employee [id=11, age=25, fname=Krushna, lname=sahane, salary=50000.0]
+Employee [id=12, age=25, fname=Jay, lname=Phad, salary=70000.0]
+Press 1 to continue... 
+1
+1. Display All Employee Records 
+2. Find Employee Record
+3. Add new Employee Record
+4. Delete Employee Record
+5. Update Employee Age
+6. Update Employee Salary
+7. Delete All Employees Record
+8. Increase All Employees Salary By %
+Enter choice >>> 
+8
+Enter Per Number to Update salary : 
+10
+Records Updated
+Press 1 to continue... 
+1
+1. Display All Employee Records 
+2. Find Employee Record
+3. Add new Employee Record
+4. Delete Employee Record
+5. Update Employee Age
+6. Update Employee Salary
+7. Delete All Employees Record
+8. Increase All Employees Salary By %
+Enter choice >>> 
+1
+Employee [id=11, age=25, fname=Krushna, lname=sahane, salary=55000.0]
+Employee [id=12, age=25, fname=Jay, lname=Phad, salary=77000.0]
+Press 1 to continue... 
+1
+1. Display All Employee Records 
+2. Find Employee Record
+3. Add new Employee Record
+4. Delete Employee Record
+5. Update Employee Age
+6. Update Employee Salary
+7. Delete All Employees Record
+8. Increase All Employees Salary By %
+Enter choice >>> 
+2
+Enter Employee id : 
+11
+Employee [id=11, age=25, fname=Krushna, lname=sahane, salary=55000.0]
+Press 1 to continue... 
+1
+1. Display All Employee Records 
+2. Find Employee Record
+3. Add new Employee Record
+4. Delete Employee Record
+5. Update Employee Age
+6. Update Employee Salary
+7. Delete All Employees Record
+8. Increase All Employees Salary By %
+Enter choice >>> 
+3
+Enter id : 
+13
+Enter Age : 
+22
+Enter First Name : 
+Akash
+Enter Last Name : 
+Sahane
+Enter Salary : 
+60000
+New record inserted
+Press 1 to continue... 
+1
+1. Display All Employee Records 
+2. Find Employee Record
+3. Add new Employee Record
+4. Delete Employee Record
+5. Update Employee Age
+6. Update Employee Salary
+7. Delete All Employees Record
+8. Increase All Employees Salary By %
+Enter choice >>> 
+1
+Employee [id=11, age=25, fname=Krushna, lname=sahane, salary=55000.0]
+Employee [id=12, age=25, fname=Jay, lname=Phad, salary=77000.0]
+Employee [id=13, age=22, fname=Akash, lname=Sahane, salary=60000.0]
+Press 1 to continue... 
+1
+1. Display All Employee Records 
+2. Find Employee Record
+3. Add new Employee Record
+4. Delete Employee Record
+5. Update Employee Age
+6. Update Employee Salary
+7. Delete All Employees Record
+8. Increase All Employees Salary By %
+Enter choice >>> 
+4
+Enter Employee id : 
+12
+Record Deleted
+Press 1 to continue... 
+1
+1. Display All Employee Records 
+2. Find Employee Record
+3. Add new Employee Record
+4. Delete Employee Record
+5. Update Employee Age
+6. Update Employee Salary
+7. Delete All Employees Record
+8. Increase All Employees Salary By %
+Enter choice >>> 
+1
+Employee [id=11, age=25, fname=Krushna, lname=sahane, salary=55000.0]
+Employee [id=13, age=22, fname=Akash, lname=Sahane, salary=60000.0]
+Press 1 to continue... 
